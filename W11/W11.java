@@ -1,3 +1,6 @@
+//코드가 너무 더러워서 수정해야 함
+//C번 미완성 
+
 package W11;
 
 import java.io.*;
